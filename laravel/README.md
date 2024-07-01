@@ -4,9 +4,9 @@ The purpose of this repository is to show good development practices on [Laravel
 
 - [Authentication](https://laravel.com/docs/10.x/authentication)
 - API
-    - [Sanctum](https://laravel.com/docs/10.x/sanctum)
-    - [API Resources](https://laravel.com/docs/10.x/eloquent-resources)
-    - Versioning
+  - [Sanctum](https://laravel.com/docs/10.x/sanctum)
+  - [API Resources](https://laravel.com/docs/10.x/eloquent-resources)
+  - Versioning
 - [Blade](https://laravel.com/docs/10.x/blade)
 - [Broadcasting](https://laravel.com/docs/10.x/broadcasting)
 - [Cache](https://laravel.com/docs/10.x/cache)
